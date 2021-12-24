@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'myFont';
+  src: url('./LHANDW.ttf');
+}
+
+body {
+  font-family: 'myFont';
+  background-color: rgb(175, 230, 230);
+  display: flex;
+  .search-text {
+    color:rgb(255, 134, 134);
+    font-size: 20px;
+  }
+}
